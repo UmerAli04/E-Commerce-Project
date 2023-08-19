@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612026471155",
+    "project_id": "selfmart-app",
+    "storage_bucket": "selfmart-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612026471155:android:e727e8f419f8057ed41d86",
+        "android_client_info": {
+          "package_name": "com.umda.selfmartapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612026471155-3b5uh84upvapmgti9bafvoomnso7s57q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPT7F0kFpoBhbMMyTyWe_c_wExD2uwJTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612026471155-3b5uh84upvapmgti9bafvoomnso7s57q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
